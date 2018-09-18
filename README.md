@@ -1,2 +1,2 @@
 # Python-unidiff-parser
-python code for  cloned github unidiff information and storing as CSV
+python code for parsing cloned unidiff files and storing as CSV
